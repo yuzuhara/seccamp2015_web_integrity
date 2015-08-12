@@ -1,0 +1,6 @@
+# A sample Gemfile
+source "https://rubygems.org"
+
+gem 'slack-api'
+gem 'selenium-webdriver'
+gem 'nokogiri'
