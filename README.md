@@ -14,3 +14,10 @@
 1. $ cd ruby
 2. $ bundle install
 3. $ ruby detect.rb "nanndemoii"
+
+## Sample web server on localhost(It needs python 2.x)
+1. $ cd sample_webpage
+2. $ bash webserver.sh
+
+sample_webpage/index.htmlを編集することで、Webページの改ざん検知を試すことができます。
+ローカルサーバで動作を確認しながら課題を進めるといいでしょう。
